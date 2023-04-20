@@ -1,0 +1,14 @@
+up to beta 0.4, the mag converge to 0, bu the time it takes to converse takes more time the higher the Beta
+
+
+but at  beta and higher,it converses at lower M, eg 0. at m = -0.8 while 0.55 at m = -0.9
+may be due to the prob (which is linked to beta/temp) is more likly to not flip than to flip 
+(so the dipoles stay algined with neibours more likly, and causing Mag to be non zero)
+
+from a 15000 sweep model for 0.44
+at 10000 it looks like itll go to zero, but then goes back to down to -0.4
+the greater the beta, the slower it takes to converge to 0 but also more it fulterattes around zero (zig zag around x axis)
+
+
+i guess, all the beta converge to 0 up to 0.5 beta, (even for 0.43 up to 5000 sweeps)
+
