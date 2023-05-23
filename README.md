@@ -1,4 +1,4 @@
-"## Ising-Model-Simulation" 
+## Ising-Model-Simulation
 
 Using a Metropolis Monte Carlo Simulation of the Ising model, the spin microstates of ferromagnetic
 systems were studied. The speed at which the system reaches thermal equilibrium increased the closer
