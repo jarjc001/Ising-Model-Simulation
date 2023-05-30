@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CW2",
-    "\\CW2\\CW2"
+    "\\CW2\\CW2",
+    "\\CW2\\x64"
   ],
-  "SelectedNode": "\\exercise data",
+  "SelectedNode": "\\CW2\\CW2\\CW2.vcxproj",
   "PreviewInSolutionExplorer": false
 }
